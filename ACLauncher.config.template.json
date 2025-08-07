@@ -1,0 +1,36 @@
+{
+  "General": {
+    "ACLogPath": "C:\\Program Files (x86)\\N3FJP Software - Affirmatech\\Amateur Contact Log\\ACLog.exe",
+    "SettingsPath": "%USERPROFILE%\\OneDrive\\Documents\\Affirmatech\\N3FJP Software\\ACLog\\"
+  },
+  "Users": {
+    "First": {
+      "Settings": {
+        "Name": "John",
+        "Callsign": "AB0JD",
+        "Initials": "JD",
+        "LOTWPassword": "",
+        "QRZInternetPassword": "",
+        "QRZAPIAccessKey": "",
+        "LogPathFilename": "%USERPROFILE%\\OneDrive\\Ham Radio\\ACLog\\AB0JD.mdb"
+      },
+      "Colors": {
+        "FormBackgroundColor": "0,0,128"
+      }
+    },
+    "Second": {
+      "Settings": {
+        "Name": "Jane",
+        "Callsign": "AB1JD",
+        "Initials": "JD",
+        "LOTWPassword": "",
+        "QRZInternetPassword": "",
+        "QRZAPIAccessKey": "",
+        "LogPathFilename": "%USERPROFILE%\\OneDrive\\Ham Radio\\ACLog\\AB1JD.mdb"
+      },
+      "Colors": {
+        "FormBackgroundColor": "255,128,192"
+      }
+    }
+  }
+}

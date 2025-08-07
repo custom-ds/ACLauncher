@@ -1,0 +1,8 @@
+# Exclude sensitive configuration files
+ACLauncher.config.json
+
+# Exclude any other sensitive files
+*.config.json
+*.credentials
+*.secrets
+ACLauncher.exe
