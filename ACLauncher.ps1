@@ -1,7 +1,7 @@
 # Basic configurations to run the ACLauncher. These may need to be adjusted based on your system setup.
 
 #The path to the ACLauncher configuration file
-$configPath = "$env:USERPROFILE\OneDrive\Ham Radio\ACLauncher.config.json"
+$configPath = "$env:USERPROFILE\OneDrive\Ham Radio\ACLauncher\ACLauncher.config.json"
 
 
 Add-Type -AssemblyName System.Windows.Forms
