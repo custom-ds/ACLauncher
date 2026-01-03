@@ -12,5 +12,5 @@ ps2exe compiles the PowerShell script into an executable file. From an administr
 
 Once ps2exe is installed, navigate to the directory with the script in it. Invoke the compiler with the following outputs.
 ```
-Invoke-PS2EXE -inputFile 'ACLauncher.ps1' -outputFile 'ACLauncher.exe' -iconFile 'aclauncher.ico' -title 'ACLauncher' -description 'Launches his and hers ACLog' -company 'Custom Digital Services' -product 'ACLauncher' -version '1.0.0' -verbose -noConsole
+Invoke-PS2EXE -inputFile 'ACLauncher.ps1' -outputFile 'ACLauncher.exe' -iconFile 'aclauncher.ico' -title 'ACLauncher' -description 'Launches his and hers ACLog' -company 'Custom Digital Services' -product 'ACLauncher' -version '1.1.0' -verbose -noConsole
 ```

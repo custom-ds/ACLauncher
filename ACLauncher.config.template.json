@@ -118,7 +118,7 @@
       },
       "RigSettings": {
         "ComPortName": "COM3",
-        "BaudRate": "38400",
+        "BaudRate": "19200",
         "Parity": "None",
         "StopBits": "1",
         "DataBits": "8",
@@ -127,7 +127,7 @@
         "PollingRate": "500",
         "ReadFrequencyCommand": "FE FE 00 E0 03 FD",
         "ReadModeCommand": "FE FE 00 E0 04 FD",
-        "ConvertCommandToHex": "False"
+        "ConvertCommandToHex": "True"
       }
     },
     "Third": {
@@ -174,7 +174,7 @@
         "PollingRate": "500",
         "ReadFrequencyCommand": "FE FE 00 E0 03 FD",
         "ReadModeCommand": "FE FE 00 E0 04 FD",
-        "ConvertCommandToHex": "False"
+        "ConvertCommandToHex": "True"
       }
     }
   }
